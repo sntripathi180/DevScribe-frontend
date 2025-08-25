@@ -3,7 +3,11 @@
 DevScribe is a sleek, modern **Content Management System (CMS)** that combines the efficiency of **React JS** and **Tailwind CSS** on the frontend with the robustness of **Django** on the backend. It leverages **SQLite3** as its database to offer a smooth and efficient development experience.
 
 ---
-
+## Have a look:
+``` 
+https://devscribe-bxtb.onrender.com
+```
+---
 ## ✨ **Key Features**
 - 🔐 **User Authentication**: Securely create an account, log in, and manage user sessions.  
 - ✍️ **Content Management**: Easily add, edit, and manage content through an intuitive UI.  
